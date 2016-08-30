@@ -6,6 +6,7 @@
 *.exe
 *.o
 *.so
+*.gitignore
 
 # Packages #
 ############
@@ -46,6 +47,3 @@ Thumbs.db
 # Configuration #
 *.yml
 
-# Data Files #
-csv/
-deploy/
